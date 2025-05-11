@@ -32,7 +32,7 @@ Meu GitHub é um espaço vivo onde compartilho aprendizados, projetos e experime
 ### 📫 Contato
 
 Você pode me encontrar em:
-- [LinkedIn](https://www.linkedin.com/in/reginaldofreitas/) *(coloque o seu)*
+- [LinkedIn](https://www.linkedin.com/in/reginaldofreitas/)
 - [E-mail](mailto:rfreitas.sales@gmail.com)
 
 ---
